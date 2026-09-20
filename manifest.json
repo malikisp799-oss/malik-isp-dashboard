@@ -1,24 +1,16 @@
 {
-  "background_color": "#ffffff",
-  "dir": "ltr",
-  "display": "standalone",
-  "name": "Malik ISP Management",
-  "orientation": "any",
-  "scope": "/",
-  "short_name": "malikisp799",
+  "name": "Malik Internet Service",
+  "short_name": "Malik ISP",
   "start_url": "/",
-  "theme_color": "#ffffff",
-  "id": "Malik799",
-  "description": "For ISP Managment",
-  "lang": "en",
-  "display_override": [
-    "browser",
-    "fullscreen",
-    "minimal-ui",
-    "standalone",
-    "window-controls-overlay"
-  ],
-  "categories": [
-    "network"
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#007bff",
+  "description": "ISP Management Dashboard for Malik Internet Service",
+  "icons": [
+    {
+      "src": "https://www.pwabuilder.com/assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
   ]
 }

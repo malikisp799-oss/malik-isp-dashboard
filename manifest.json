@@ -1,0 +1,24 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Malik ISP Management",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "malikisp799",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "Malik799",
+  "description": "For ISP Managment",
+  "lang": "en",
+  "display_override": [
+    "browser",
+    "fullscreen",
+    "minimal-ui",
+    "standalone",
+    "window-controls-overlay"
+  ],
+  "categories": [
+    "network"
+  ]
+}
